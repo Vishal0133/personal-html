@@ -1,0 +1,177 @@
+
+@media only screen and (min-width: 600px) {
+    .body img{
+        height:auto;
+        max-width: 100%;
+        
+    }
+}
+.main{  /*main*/
+    width:100%;
+    height: 800px;
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.clouds{ /*div of clouds*/
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+}
+.clouds img{
+    margin-left: 800px;
+}
+.clouds1 img{
+    margin-left:200px;
+}
+h1 {  /*text*/
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Allura', cursive;
+font-family: 'Caveat', cursive;
+}
+.bmain{  /*text div*/
+    text-align: center;
+}
+
+ .bmain1 p{
+    color: #66bfbf;
+    font-size: 2.3rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Allura', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Timmana', sans-serif;
+text-align: center;
+}
+.mountain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:70px ;
+}
+.profile img{
+    
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.Hello{
+    color: #66bfbf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Allura', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Flamenco', cursive;
+    font-family: 'Timmana', sans-serif;
+font-size: 25px;
+   
+}
+.Hello h2{
+    padding-top: 5px;
+}
+ pre{
+    font-family: 'Allura', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Flamenco', cursive;
+    font-family: 'Timmana', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.skills{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    font-family: 'Allura', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Flamenco', cursive;
+    font-family: 'Timmana', sans-serif;
+    color: #66bfbf;
+    font-size: 25px;
+ 
+}
+.gfg {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gfg img{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.project img{
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.contact-me{
+   text-align: center;
+}
+.contact-me h2{
+    font-family: 'Allura', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Flamenco', cursive;
+    font-family: 'Timmana', sans-serif;
+    color: #66bfbf;
+    font-size: 35px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+.foot1{
+    text-align: center;
+    margin-top:30px;
+  }
+ ul{
+  display: inline-block;
+ }
+ .btn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+  .f1{
+    text-align:center;
+  }
+  .foot1{
+    height:200px;
+    background-color:  #11cdd4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+  }
